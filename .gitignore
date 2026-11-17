@@ -1,0 +1,5 @@
+.local/
+.project/PackageCache/
+*.nupkg
+bin/
+obj/
